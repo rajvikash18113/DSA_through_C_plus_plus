@@ -5,7 +5,3 @@ int main() {
     cout << "Hello, I am Vikash" <<endl;
 }
 
-
-
-
-
