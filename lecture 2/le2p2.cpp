@@ -29,6 +29,4 @@ using namespace std;
     cout << "Size of d is : " << size_d << endl;
     cout << "Size od c is : " << size_c << endl;
 
-    
-
  }
