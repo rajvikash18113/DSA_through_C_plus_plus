@@ -12,6 +12,4 @@ using namespace std;
 
     bool b3 = (a<b);
     cout << b3 << endl;
-
-
- }
+}
