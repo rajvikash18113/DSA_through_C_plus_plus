@@ -1,8 +1,8 @@
 /*
-ABCD
-EFGH
-IJKL
-MNOP
+    ABCD
+    EFGH
+    IJKL
+    MNOP
 */
 
 #include <iostream>
