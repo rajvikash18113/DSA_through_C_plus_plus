@@ -1,8 +1,8 @@
 /*
-    ABCD
-    ABCD
-    ABCD
-    ABCD
+ABCD
+ABCD
+ABCD
+ABCD
 */
 
 #include<iostream>
